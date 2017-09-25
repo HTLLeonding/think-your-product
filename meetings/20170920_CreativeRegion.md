@@ -27,5 +27,9 @@ bekomme ich noch
 AEC?
 ca. Kosten: 1000 bis 2000 / Tag (3500 für zwei Tage) + Material (Post-its, Stifte etc. (nochmal ca 1000)).
 
-#Finanzierung
+# Finanzierung
 Förderung beim Bundeskanzleramt, Wirtschaftsministerium
+
+# Next Steps
+- Kreativworkshop genauer definieren und Budget aufstellen
+- Link zu Lehrer aus der HTBLA Lentia
