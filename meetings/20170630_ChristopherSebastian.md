@@ -13,14 +13,16 @@ In drei Sätzen: was ist die Startup Week?
 
 # Motivational Letter
 Von den SchülerInnen schreiben lassen.
-Titel
-Problembeschreibung
-Wie wird das Problem jetzt gelöst
-Wie wollt ihr das Problem lösen (Kurze Produktbeschreibung)
-Ziel
-Zielpublikum
-Teamvorschlag
-Needed Resources
+
+- Titel
+- Problembeschreibung
+  - Wie wird das Problem jetzt gelöst
+  - Wie wollt ihr das Problem lösen (Kurze Produktbeschreibung)
+- Ziel
+- Zielpublikum
+- Teamvorschlag
+- Needed Resources
+
 Jury: wer? Startup300, + Firmen, die da drinnen sind (Catalyst, …)
 Preis: Reden mit der Tabakfabrik (Präsentation bei Factory300, …)
 
